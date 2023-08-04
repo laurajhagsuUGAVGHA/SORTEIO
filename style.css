@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to bottom, #368092, #a2d5e1 , #a0eae6, #89cabb, #47e1df); 
+    width: auto;
+    height: 600px;
+}
+.container {
+    background-color:#ffe4e1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    margin: 500px;
+    text-align: center;
+    padding: 60px;
+    margin-top: 150px;
+   
+}
+
+.botao  {
+    height: 25px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 100px;
+margin-top: 10px;
+}
+
+.h2{
+    text-align: center;
+    font: 500 60px 'Oswald',sans-serif ;
+}
+
+.entrada {
+    font: 500 30px;
+    box-shadow: #ffffff;
+    box-shadow: 0px 0px 1px 1px #e7c2be;
+}
